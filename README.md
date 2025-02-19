@@ -4,4 +4,4 @@ Este é o repositório do projeto **Casa do Notebook**. Você pode acessar o sit
 
 Desenvolvimento by Maurocbjunior
 
-[Visite o site no GitHub Pages]( https://Maurocbjunior.github.io/CasaDoNotebook/)
+[Visite o site no GitHub Pages]( https://Maurocbjunior.github.io/ProjetoCasaDoNotebook/)
